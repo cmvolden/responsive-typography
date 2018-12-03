@@ -25,17 +25,22 @@ body {
 
 article {
   max-width: 43em;
+  padding: 0 1rem;
 }
 
 article h1 {
+  margin: 0;
   font-weight: normal;
 }
 
 article header {
   border-bottom: 1px solid #999;
+  margin-top: .75em;
 }
 
 article header p {
+  margin: 0;
+  margin-bottom: 1em;
   font-style: italic;
 }
 
